@@ -23,7 +23,7 @@ showButton.onclick = (function (){
 });
 //create an onclick event for the Update Img button
 updateImg.onclick = (function (){
-  ghostImg.src= "download (2).jpeg"
+  ghostImg.src= "./images/EBvhfUYUcAA4eed.jpeg"
 });
 //create an onclick event for the Send Message button
 //update the userInput variable by saving the value of the input
